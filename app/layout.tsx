@@ -10,9 +10,8 @@ const ibmPlexSerif = IBM_Plex_Serif({
 })
 
 export const metadata: Metadata = {
-  title: "Mon enveloppe budgetaire",
-  description:
-    "Mon enveloppe budgetaire est un outil moderne pour suivre vos dépenses.",
+  title: "Ma bonne poche",
+  description: "Ma bonne poche est un outil moderne pour suivre vos dépenses.",
   icons: {
     icon: "/icons/logo.svg",
   },
